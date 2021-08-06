@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name_text">Iramar Falcão</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio_text">
+        On the other hand, we denounce with righteous indignation and dislike men who are so \n
+        beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, \n
+        that they cannot foresee the pain and trouble that are bound to ensue; and equal blame \n
+        belongs to those who fail in their duty through weakness of will, which is the same as \n
+        saying through shrinking from toil and pain. These cases are perfectly simple and easy \n
+        to distinguish. \n\n
+        In a free hour, when our power of choice is untrammelled and when nothing prevents our \n
+        being able to do what we like best, every pleasure is to be welcomed and every pain \n
+        avoided. But in certain circumstances and owing to the claims of duty or the obligations \n
+        of business it will frequently occur that pleasures have to be repudiated and annoyances \n
+        accepted. The wise man therefore always holds in these
+    </string>
+</resources>
