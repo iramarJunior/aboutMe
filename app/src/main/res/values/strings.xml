@@ -16,4 +16,6 @@
         of business it will frequently occur that pleasures have to be repudiated and annoyances \n
         accepted. The wise man therefore always holds in these
     </string>
+    <string name="nickname_hint">Whats your nickname?</string>
+    <string name="done_text">Done</string>
 </resources>
